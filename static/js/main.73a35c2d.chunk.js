@@ -1,2 +1,0 @@
-(this.webpackJsonpre=this.webpackJsonpre||[]).push([[0],{62:function(n,s,e){n.exports=e(63)},63:function(n,s,e){"use strict";e.r(s);e(64),e(91),e(93),e(94),e(96),e(97),e(98),e(99),e(100),e(101),e(102),e(103),e(105),e(106),e(107),e(108),e(109),e(110),e(111),e(112),e(113),e(114),e(116),e(117),e(118),e(119),e(120),e(121),e(122),e(123),e(124),e(125),e(126),e(127),e(128),e(129),e(130),e(131),e(132),e(133),e(59),e(138);var p=e(61);e.n(p).a.send("VKWebAppInit")}},[[62,1,2]]]);
-//# sourceMappingURL=main.73a35c2d.chunk.js.map
